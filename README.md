@@ -36,6 +36,11 @@ The directories are organised by sessions, with a separate directory for the pro
 ### Project presentations
 - Friday 20th February: 9:00 - 11:00
 
+## Glossary
+Add glossary terms here...
+
+* SBI - simulation-based inference
+
 ## For developers (to be removed)
 To contribute to this repository, please follow these steps:
 1. Fork the repository to your own GitHub account.
