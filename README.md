@@ -18,7 +18,7 @@ The directories are organised by sessions, with a separate directory for the pro
 - Tuesday 17th February: 9:00 - 10:00
 - This session...
 
-### Session 4: ADD AUSTIN TITLE
+### Session 4: BO for chemistry 
 - Tuesday 17th February: 10:00 - 11:00
 - This session...
 
