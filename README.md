@@ -17,7 +17,7 @@ We will add the project material on Wednesday 18th February after the lectures h
 - Course leader: Jon Langford
 - [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/2_inference_with_classifiers)
 
-### Session 3: Bayesian inference
+### Session 3: Bayesian kinetic modeling with hybrid models
 - Tuesday 17th February: 14:00 - 15:00
 - Course leader: Laura Helleckes
 
@@ -32,7 +32,7 @@ We will add the project material on Wednesday 18th February after the lectures h
 ### Project work
 - Wednesday 18th February: 15:00 - 16:00
     - This hour will include a brief discussion of the project requirements and assessment criteria at the beginning. We will provide a set of template slides for the presentation, as well as the marking rubric.
-- Thursday 19th February: 14:00 - 16:00
+- Thursday 19th February: 11:00 - 13:00
 
 ### Project presentations
-- Friday 20th February: 14:00 - 16:00
+- Friday 20th February: 14:15 - 17:00
