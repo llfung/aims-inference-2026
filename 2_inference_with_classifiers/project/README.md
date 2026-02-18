@@ -1,6 +1,6 @@
 # Project: Inferring new physics at the Large Hadron Collider with classifiers
 
-The accompanying notebook for this project can be found [here](project.ipynb).
+The accompanying notebook for this project can be found  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jonathon-langford/aims-inference-2026/blob/dev_project_jl/2_inference_with_classifiers/project/project.ipynb)
 
 ## Introduction
 In this project, you will apply the techniques of neural simulation-based inference (SBI) to a problem in particle physics. You will use neural network classifiers to infer the properties of a new particle $A$.
@@ -10,6 +10,7 @@ At the Large Hadron Collider (LHC), we have managed to collect a data sample of 
 $$
 A \rightarrow \mu + \nu
 $$
+
 This process is very rare, and we have only observed a few collisions ("events") that contain this decay. The data can be found in the file `data_observed/data_project.csv`, which contains 10 events. 
 
 A pictorial representation of one of these collision events is shown below. The particle $A$ is produced in the collision at the primary interaction point. This immediately decays into a muon and a neutrino, which then travel through the detector. The muon (red line) leaves a track in the muon chambers of the detector (red blocks). The neutrino on the other hand interacts very weakly and escapes undetected. We measure its presence from the conservation of energy i.e. we see missing transverse energy (MET) in the direction of the neutrino (purple arrow).
@@ -43,7 +44,7 @@ data = run_simulation(num_events, spin, mass)
 where `num_events` is the number of collision events to simulate, `spin` is the spin of particle $A$ (0 or 1), and `mass` is the mass of particle $A$ in GeV. The function returns a pandas dataframe array of shape `(num_events, 5)`, where each row corresponds to a simulated event and the columns correspond to the measurements listed above (in the same order).
 
 ## Tasks
-This is an incredible exciting time in fundamental physics... it is the first new discovery in decades which will revolutionize our understanding of the universe. You are tasked with finding out the properties of this new particle and reporting back to the world. It is important that we get this right so that the next collider at CERN can be designed to study this particle in more detail.
+This is an incredibly exciting time in fundamental physics... it is the first new discovery in decades which will revolutionize our understanding of the universe. You are tasked with finding out the properties of this new particle and reporting back to the world. It is important that we get this right so that the next collider at CERN can be designed to study this particle in more detail.
 
 You have two main tasks in this project:
 

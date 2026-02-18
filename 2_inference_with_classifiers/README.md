@@ -39,3 +39,6 @@ pip install numpy pandas matplotlib scikit-learn torch
 ```
 
 Then run the notebooks using your preferred Jupyter interface (I find VS Code's Jupyter extension to be very convenient for this).
+
+## Project: Inferring new physics at the Large Hadron Collider with classifiers
+All project material can be found in the [project](project/) directory of this repository.
